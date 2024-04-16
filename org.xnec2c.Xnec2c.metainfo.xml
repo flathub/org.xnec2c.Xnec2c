@@ -8,7 +8,7 @@
   <summary>A multi-threaded EM tool based on NEC2 to model antenna radiation patterns</summary>
   <description>
     <p>
-      Xnec2c is a high-performance multi-threaded electromagnetic simulation
+      Xnec2c is a high-performance multi-threaded electromagnetic simulation 
       package to model antenna near- and far-field radiation patterns for
       Linux and UNIX operating systems. The original FORTRAN version of NEC2
       was ported to C by Neoklis Kyriazis, 5B4AZ and released as nec2c. Later
