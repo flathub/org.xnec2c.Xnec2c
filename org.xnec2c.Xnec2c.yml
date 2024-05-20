@@ -44,8 +44,8 @@ modules:
   - name: xnec2c
     sources:
       - type: archive
-        url: https://www.xnec2c.org/releases/xnec2c-v4.4.15.tar.gz
-        sha256: 7560dd3c9e881e749dc3057b3f040bc50a0e0d10520f0ef0df4e016e3c160a3f
+        url: https://www.xnec2c.org/releases/xnec2c-v4.4.16.tar.gz
+        sha256: 5e2662f297e67c78c6a5e3e4472fe91754c0fb945dc57e001ae2b31b95aaae69
         x-checker-data:
           type: anitya
           project-id: 18603
