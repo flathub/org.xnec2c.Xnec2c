@@ -33,8 +33,8 @@ modules:
       - PREFIX=/app
     sources:
       - type: archive
-        url: https://github.com/xianyi/OpenBLAS/releases/download/v0.3.30/OpenBLAS-0.3.30.tar.gz
-        sha256: 27342cff518646afb4c2b976d809102e368957974c250a25ccc965e53063c95d
+        url: https://github.com/xianyi/OpenBLAS/releases/download/v0.3.31/OpenBLAS-0.3.31.tar.gz
+        sha256: 6dd2a63ac9d32643b7cc636eab57bf4e57d0ed1fff926dfbc5d3d97f2d2be3a6
         x-checker-data:
           type: anitya
           project-id: 2540
@@ -44,8 +44,8 @@ modules:
   - name: xnec2c
     sources:
       - type: archive
-        url: https://www.xnec2c.org/releases/xnec2c-v4.4.16.tar.gz
-        sha256: 5e2662f297e67c78c6a5e3e4472fe91754c0fb945dc57e001ae2b31b95aaae69
+        url: https://www.xnec2c.org/releases/xnec2c-v4.4.18.tar.gz
+        sha256: 0e1b05dddee94854c32955b8189a7f0a9e0281c7f5888dc96c1a154a882f1116
         x-checker-data:
           type: anitya
           project-id: 18603
